@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @biggles2k
 - 👀 I’m interested in designing and developing [Interactive Fiction](https://en.wikipedia.org/wiki/Interactive_fiction "Interactive Fiction"), primarily text adventures with [Inform7](https://inform7.com/ "Inform7").
-- 🌱 I’m currently learning [Jamstack](https://jamstack.org/ "WTF is Jamstack?").
+- 🌱 I’m currently (re)learning [Jamstack](https://jamstack.org/ "WTF is Jamstack?") and Python.
 - 💞️ I’m looking to collaborate on an [Ultima](https://www.google.com/search?q=ultima+game "Ultima") remake (or maybe even a new Ultima???) or an Ultima-style CRPG.
 - 📫 Send me an email!
 
